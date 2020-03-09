@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>portable</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="4.5.0.356" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.5.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Images\" />
+    <Folder Include="MarkupExtensions\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Images\airvoice.jpg" />
+    <None Remove="Images\att.jpg" />
+    <None Remove="Images\background.jpg" />
+    <None Remove="Images\lyca.jpg" />
+    <None Remove="Images\pageplus.jpg" />
+    <None Remove="Images\tracfone.png" />
+    <None Remove="Images\verizon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Images\airvoice.jpg" />
+    <EmbeddedResource Include="Images\att.jpg" />
+    <EmbeddedResource Include="Images\background.jpg" />
+    <EmbeddedResource Include="Images\lyca.jpg" />
+    <EmbeddedResource Include="Images\pageplus.jpg" />
+    <EmbeddedResource Include="Images\tracfone.png" />
+    <EmbeddedResource Include="Images\verizon.png" />
+  </ItemGroup>
+</Project>

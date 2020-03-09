@@ -1,0 +1,16 @@
+/Users/anthonyhowe/Projects/PhoneProject/PhoneProject/bin/Debug/netstandard2.0/PhoneProject.deps.json
+/Users/anthonyhowe/Projects/PhoneProject/PhoneProject/bin/Debug/netstandard2.0/PhoneProject.dll
+/Users/anthonyhowe/Projects/PhoneProject/PhoneProject/bin/Debug/netstandard2.0/ref/PhoneProject.dll
+/Users/anthonyhowe/Projects/PhoneProject/PhoneProject/bin/Debug/netstandard2.0/PhoneProject.pdb
+/Users/anthonyhowe/Projects/PhoneProject/PhoneProject/obj/Debug/netstandard2.0/PhoneProject.csprojAssemblyReference.cache
+/Users/anthonyhowe/Projects/PhoneProject/PhoneProject/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/anthonyhowe/Projects/PhoneProject/PhoneProject/obj/Debug/netstandard2.0/ImagePage.xaml.g.cs
+/Users/anthonyhowe/Projects/PhoneProject/PhoneProject/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/anthonyhowe/Projects/PhoneProject/PhoneProject/obj/Debug/netstandard2.0/PhoneProject.AssemblyInfoInputs.cache
+/Users/anthonyhowe/Projects/PhoneProject/PhoneProject/obj/Debug/netstandard2.0/PhoneProject.AssemblyInfo.cs
+/Users/anthonyhowe/Projects/PhoneProject/PhoneProject/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/anthonyhowe/Projects/PhoneProject/PhoneProject/obj/Debug/netstandard2.0/PhoneProject.dll
+/Users/anthonyhowe/Projects/PhoneProject/PhoneProject/obj/Debug/netstandard2.0/ref/PhoneProject.dll
+/Users/anthonyhowe/Projects/PhoneProject/PhoneProject/obj/Debug/netstandard2.0/PhoneProject.pdb
+/Users/anthonyhowe/Projects/PhoneProject/PhoneProject/obj/Debug/netstandard2.0/VerizonPage.xaml.g.cs
+/Users/anthonyhowe/Projects/PhoneProject/PhoneProject/obj/Debug/netstandard2.0/AttPage.xaml.g.cs
